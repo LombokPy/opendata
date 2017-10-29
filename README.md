@@ -5,3 +5,4 @@
     - Class Diagram
     
     [Document disini](https://github.com/LombokPy/opendata_docs)
+    
